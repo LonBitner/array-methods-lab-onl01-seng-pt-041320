@@ -23,6 +23,7 @@ emotions= ["wow", "wow", "arrays!"]
 end
 
 def using_size(array)
-emotions= ["wow", "wow", "arrays!"]
+emotions= ["wow", "wow", "arrays!", "help", "smile", 
+"laugh"]
  emotions.length
 end
