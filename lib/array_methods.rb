@@ -23,5 +23,6 @@ emotions= ["wow", "wow", "arrays!"]
 end
 
 def using_size(array)
-
+emotions= ["wow", "wow", "arrays!"]
+ emotions.size
 end
