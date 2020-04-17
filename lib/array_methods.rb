@@ -8,7 +8,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-
+ emotions= ["I", "wow", "arrays!"]
+ emotions.reversse
 end
 
 def using_first(array)
