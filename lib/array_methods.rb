@@ -24,5 +24,5 @@ end
 
 def using_size(array)
 emotions= ["wow", "wow", "arrays!"]
- emotions.size
+ emotions.length
 end
