@@ -9,7 +9,7 @@ end
 
 def using_reverse(array)
  emotions= ["I", "wow", "arrays!"]
- emotions.reversse
+ emotions.reverse
 end
 
 def using_first(array)
